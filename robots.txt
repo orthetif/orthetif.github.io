@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://orthetif.github.io/sitemap.html.gz
+Sitemap: https://orthetif.github.io/app/sitemap.html.gz
+Sitemap: https://orthetif.github.io/assets/sitemap.html.gz
+Sitemap: https://orthetif.github.io/css/sitemap.html.gz
+Sitemap: https://orthetif.github.io/includes/sitemap.html.gz
+Sitemap: https://orthetif.github.io/item/sitemap.html.gz
+Sitemap: https://orthetif.github.io/src/sitemap.html.gz
